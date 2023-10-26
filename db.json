@@ -16,19 +16,6 @@
       "supports_multi_day_bookings": false,
       "created_at": "2021-08-04T17:35:44.000Z",
       "updated_at": "2022-04-29T17:58:15.000Z",
-      "booking_windows": [
-        {
-          "id": 643,
-          "uuid": "7076b319-58d3-45f6-8f4f-534160a5865d",
-          "resource_id": 508,
-          "rrule": "RRULE:FREQ=DAILY;INTERVAL=1;BYDAY=MO,TU,WE,TH,FR;BYHOUR=8,9,10,11,12,13,14,15,16;BYMINUTE=0,15,30,45;BYSECOND=0",
-          "type": "Available",
-          "minimum_duration": 30,
-          "buffer_between": 0,
-          "cancellation_rules": [],
-          "pricing_rules": []
-        }
-      ],
       "features": [
         {
           "id": 250,
@@ -46,48 +33,6 @@
           "default_type": "TV",
           "name": "Sound proof",
           "icon": "fa-tv",
-        },
-        {
-          "id": 251,
-          "uuid": "hjklhjklhd778fgdb887dfgb9",
-          "resource_id": 508,
-          "default_type": "WIFI",
-          "name": "Sit + stand desks",
-          "icon": "fa-wifi",
-          "active": true,
-        },
-        {
-          "id": 252,
-          "uuid": "fghjfhgjfghjr99",
-          "resource_id": 508,
-          "default_type": "WIFI",
-          "name": "Premium chairs",
-          "icon": "fa-wifi",
-          "active": true,
-        },
-        {
-          "id": 253,
-          "uuid": "zzzttgfdhaaa9",
-          "resource_id": 508,
-          "default_type": "WIFI",
-          "name": "Wired internet",
-          "icon": "fa-wifi",
-        },
-        {
-          "id": 254,
-          "uuid": "fghjfghjhhhhttr5r",
-          "resource_id": 508,
-          "default_type": "WIFI",
-          "name": "Presentation ready",
-          "icon": "fa-wifi",
-        },
-        {
-          "id": 255,
-          "uuid": "dfghjfghjgggggkllllllllloo9",
-          "resource_id": 508,
-          "default_type": "WIFI",
-          "name": "Lounge seating",
-          "icon": "fa-wifi",
         }
       ],
       "resourcesBuildings": [
@@ -97,31 +42,6 @@
           "building_uuid": "sdfghdgfhdfghqqqqqqqqqqc",
           "created_at": "2023-08-23T20:59:38.000Z",
           "updated_at": "2023-08-23T20:59:38.000Z",
-          "building": {
-            "address_1": "38 Chauncy Street",
-            "city": "Boston",
-            "state": "MA",
-            "zipcode": "02111",
-            "street_number": "38",
-            "country": "United States",
-            "country_code": "US",
-            "formatted_address": "38 Chauncy St, Boston, MA 02111, USA",
-            "latitude": "42.3538195",
-            "longitude": "-71.059648",
-            "id": 133430,
-            "uuid": "fghjfghjggffc",
-            "slug": "the-hive-38-chauncy",
-            "name": "The Hive",
-            "description": "At the Hive, five office buildings converge around shared spaces for a dynamic, sociable environment. Historic finishes combine with creative flourishes in offices that enhance your company’s culture. Amenities like our fitness center and retail shops cater to your lifestyle. Want to be inspired and energized when you come to work? Join us at the Hive.",
-            "url": "https://www.hqo.co/blog/love-where-you-work-the-hive-in-downtown-crossing",
-            "image_url": "uploads/ee26908bf9629eeb4b37dac350f4754a_1568835681103.jpeg",
-            "hero_image_url": null,
-            "square_foot": 132872,
-            "timezone": "America/New_York",
-            "acs_manager_email": "tenantservices@synergyboston.com",
-            "allows_guest_signup": false,
-            "building_population": 1800,
-          }
         }
       ]
     }
