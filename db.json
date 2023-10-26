@@ -10,50 +10,6 @@
       "capacity": 6,
       "manager_email": "tenantservices@synergy-inv.com",
       "subtitle": "The Hive Conference Room ",
-      "features": [
-        {
-          "id": 250,
-          "default_type": "WIFI",
-          "name": "Fits 26 people",
-          "icon": "FiUsers",
-        },
-        {
-          "id": 459,
-          "default_type": "TV",
-          "name": "Sound proof",
-          "icon": "fa-tv",
-        },
-        {
-          "id": 251,
-          "default_type": "WIFI",
-          "name": "Sit + stand desks",
-          "icon": "fa-wifi",
-        },
-        {
-          "id": 252,
-          "default_type": "WIFI",
-          "name": "Premium chairs",
-          "icon": "fa-wifi",
-        },
-        {
-          "id": 253,
-          "default_type": "WIFI",
-          "name": "Wired internet",
-          "icon": "fa-wifi",
-        },
-        {
-          "id": 254,
-          "default_type": "WIFI",
-          "name": "Presentation ready",
-          "icon": "fa-wifi",
-        },
-        {
-          "id": 255,
-          "default_type": "WIFI",
-          "name": "Lounge seating",
-          "icon": "fa-wifi",
-        },
-      ],
     },
   ],
   "comments": [
