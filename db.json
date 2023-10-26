@@ -1,11 +1,72 @@
 {
   "resources": [
     { 
-      "id": 1, 
-      "title": "Post 1",
+      "id": 508,
+      "uuid": "sdfgdfgh75",
+      "name": "Conference Center (Small)",
+      "description": "Great ideas come through collaboration, which is why 38 Chauncy Street offers a fully amenitized conference center to incubate your next great idea. \n\nHolds up to 6 people (comfortably 4).",
+      "type": "Small Conference Room",
+      "image_url": "https://www.thehiveworkspace.com/wp-content/uploads/The-Hive-Workspace-02082023_110720-1030x580.jpg",
+      "capacity": 6,
+      "manager_email": "tenantservices@synergy-inv.com",
+      "subtitle": "The Hive Conference Room ",
       "features": [
         {
-          "sopmething": "123"
+          "id": 250,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "FiUsers",
+        },
+        {
+          "id": 459,
+          "default_type": "TV",
+          "name": "Sound proof",
+          "icon": "fa-tv",
+        },
+        {
+          "id": 251,
+          "default_type": "WIFI",
+          "name": "Sit + stand desks",
+          "icon": "fa-wifi",
+        },
+        {
+          "id": 252,
+          "default_type": "WIFI",
+          "name": "Premium chairs",
+          "icon": "fa-wifi",
+        },
+        {
+          "id": 253,
+          "default_type": "WIFI",
+          "name": "Wired internet",
+          "icon": "fa-wifi",
+        },
+        {
+          "id": 254,
+          "default_type": "WIFI",
+          "name": "Presentation ready",
+          "icon": "fa-wifi",
+        },
+        {
+          "id": 255,
+          "default_type": "WIFI",
+          "name": "Lounge seating",
+          "icon": "fa-wifi",
+        }
+      ],
+      "resourcesBuildings": [
+        {
+          "id": 636,
+          "building": {
+             "address_1": "38 Chauncy Street",
+              "city": "Boston",
+              "state": "MA",
+              "zipcode": "02111",
+              "street_number": "38",
+              "formatted_address": "38 Chauncy St, Boston, MA 02111, USA",
+              "latitude": "42.3538195",
+              "longitude": "-71.059648",
+          }
         }
       ]
     }
