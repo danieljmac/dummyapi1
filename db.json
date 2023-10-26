@@ -71,22 +71,79 @@
             "image_url": "uploads/ee26908bf9629eeb4b37dac350f4754a_1568835681103.jpeg",
             "slug": "the-hive-38-chauncy"
           }
+        }
+      ]
+    },
+    { 
+      "id": 509,
+      "uuid": "sdfgdfgh75",
+      "name": "Conference Center (Large)",
+      "description": "Great ideas come through collaboration, which is why 38 Chauncy Street offers a fully amenitized conference center to incubate your next great idea. \n\nHolds up to 6 people (comfortably 4).",
+      "type": "Large Conference Room",
+      "image_url": "https://dmevq6vd3sz66.cloudfront.net/uploads/ee26908bf9629eeb4b37dac350f4754a_1568996373058.jpeg",
+      "capacity": 6,
+      "manager_email": "tenantservices@synergy-inv.com",
+      "subtitle": "The Hive Conference Room ",
+      "features": [
+        {
+          "id": 1,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
         },
+        {
+          "id": 2,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
+        },
+        {
+          "id": 3,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
+        },
+        {
+          "id": 4,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
+        },
+        {
+          "id": 5,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
+        },
+        {
+          "id": 6,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
+        },
+        {
+          "id": 7,
+          "default_type": "WIFI",
+          "name": "Fits 26 people",
+          "icon": "wifi"
+        }
+      ],
+      "resourcesBuildings": [
         {
           "id": 2,
           "building": {
             "id": "2",
-            "address_1": "26 Winter St",
+            "address_1": "38 Chauncy Street",
             "city": "Boston",
             "state": "MA",
             "zipcode": "02111",
             "street_number": "38",
-            "latitude": "42.358095",
-            "longitude": "-71.054048",
-            "name": "The Winter St",
-            "description": "At the Winter st, five office buildings converge around shared spaces for a dynamic, sociable environment. Historic finishes combine with creative flourishes in offices that enhance your company’s culture. Amenities like our fitness center and retail shops cater to your lifestyle. Want to be inspired and energized when you come to work? Join us at the Hive.",
+            "latitude": "42.3538195",
+            "longitude": "-71.059648",
+            "name": "The Hive",
+            "description": "At the Hive, five office buildings converge around shared spaces for a dynamic, sociable environment. Historic finishes combine with creative flourishes in offices that enhance your company’s culture. Amenities like our fitness center and retail shops cater to your lifestyle. Want to be inspired and energized when you come to work? Join us at the Hive.",
             "image_url": "uploads/ee26908bf9629eeb4b37dac350f4754a_1568835681103.jpeg",
-            "slug": "the-winter-st"
+            "slug": "the-hive-38-chauncy"
           }
         }
       ]
