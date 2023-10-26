@@ -10,7 +10,7 @@
       "capacity": 6,
       "manager_email": "tenantservices@synergy-inv.com",
       "subtitle": "The Hive Conference Room ",
-    },
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
