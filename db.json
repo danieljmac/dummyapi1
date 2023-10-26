@@ -53,21 +53,6 @@
           "name": "Lounge seating",
           "icon": "fa-wifi",
         }
-      ],
-      "resourcesBuildings": [
-        {
-          "id": 636,
-          "building": {
-             "address_1": "38 Chauncy Street",
-              "city": "Boston",
-              "state": "MA",
-              "zipcode": "02111",
-              "street_number": "38",
-              "formatted_address": "38 Chauncy St, Boston, MA 02111, USA",
-              "latitude": "42.3538195",
-              "longitude": "-71.059648",
-          }
-        }
       ]
     }
   ],
