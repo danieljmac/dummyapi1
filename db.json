@@ -17,6 +17,14 @@
         {
           "id": 456
         }
+      ],
+      "resourcesBuildings": [
+        {
+          "id": 123,
+          "building": {
+            "id": "sdfgdfgh"
+          }
+        }
       ]
     }
   ],
