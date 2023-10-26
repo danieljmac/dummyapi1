@@ -1,49 +1,14 @@
 {
-  "resources": [
-    {
-      "id": 508,
-      "uuid": "1237657-dfgt5",
-      "slug": "sdfgdfgh",
-      "name": "Conference Center (Small)",
-      "description": "Great ideas come through collaboration, which is why 38 Chauncy Street offers a fully amenitized conference center to incubate your next great idea. \n\nHolds up to 6 people (comfortably 4).",
-      "type": "Small Conference Room",
-      "image_url": "https://www.thehiveworkspace.com/wp-content/uploads/The-Hive-Workspace-02082023_110720-1030x580.jpg",
-      "capacity": 6,
-      "manager_email": "tenantservices@synergy-inv.com",
-      "subtitle": "The Hive Conference Room ",
-      "amenity_description": "If you would like to cancel a booking, please email tenantservices3620@synergyboston.com with the request at least 12 hours before the time of the booking.",
-      "amenity_description_uuid": "111111111-22222",
-      "supports_multi_day_bookings": false,
-      "created_at": "2021-08-04T17:35:44.000Z",
-      "updated_at": "2022-04-29T17:58:15.000Z",
-      "features": [
-        {
-          "id": 250,
-          "uuid": "lkjhsrhkjhsdtg",
-          "resource_id": 508,
-          "default_type": "WIFI",
-          "name": "Fits 26 people",
-          "icon": "FiUsers",
-          "active": true,
-        },
-        {
-          "id": 459,
-          "uuid": "zfghjfghjfghjfgjhsuysyjgsd9",
-          "resource_id": 508,
-          "default_type": "TV",
-          "name": "Sound proof",
-          "icon": "fa-tv",
-        }
-      ],
-      "resourcesBuildings": [
-        {
-          "id": 645396,
-          "resource_id": 508,
-          "building_uuid": "sdfghdgfhdfghqqqqqqqqqqc",
-          "created_at": "2023-08-23T20:59:38.000Z",
-          "updated_at": "2023-08-23T20:59:38.000Z",
-        }
-      ]
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
