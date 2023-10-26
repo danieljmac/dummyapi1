@@ -52,9 +52,9 @@
           "default_type": "WIFI",
           "name": "Lounge seating",
           "icon": "fa-wifi",
-        }
-      ]
-    }
+        },
+      ],
+    },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
